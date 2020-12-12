@@ -61,15 +61,3 @@ button:hover {
   background-color: #ffffff;
   color: #11068c;
 }
-
-code{
-  display:block;
-  text-align: left;
-  position: relative;
-  line-height: 2;
-  font-size: 20px;
-  background-color:#eff0f1;
-  padding:15px;
-  margin:10px 0 10px 50px;
-  border-radius:5px;
-}
